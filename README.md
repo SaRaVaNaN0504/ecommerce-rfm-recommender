@@ -111,7 +111,9 @@ venv\Scripts\activate        # On Windows
 
 ## Results
 -Customers are segmented into X groups using KMeans.
+
 -Recommendations are based on item similarity.
+
 -Example: If a user likes WHITE HANGING HEART T-LIGHT HOLDER, similar products are suggested.
 
 ---
