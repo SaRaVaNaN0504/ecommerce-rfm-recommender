@@ -127,4 +127,9 @@ venv\Scripts\activate        # On Windows
 
 -Deploy on cloud (AWS/GCP) with continuous data updates
 
+## Author: Saravanan
+## Contact: saro.05.11.04@gmail.com
+## GitHub: https://github.com/SaRaVaNaN0504/
+
+
 
