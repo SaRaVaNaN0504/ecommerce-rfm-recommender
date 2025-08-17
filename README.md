@@ -3,7 +3,8 @@
 This project combines **Customer Segmentation** and **Product Recommendation** techniques to help e-commerce businesses understand their customers better and suggest relevant products.  
 
 It uses:
-- **RFM Analysis** for customer segmentation  
+- **RFM Analysis** for customer segmentation
+  
 - **Item-Based Collaborative Filtering** for product recommendations  
 
 ---
