@@ -97,7 +97,7 @@ The dataset used is the **Online Retail Dataset**, containing transaction record
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/ecommerce-rfm-recommender.git
+   git clone https://github.com/SaRaVaNaN0504/ecommerce-rfm-recommender.git
    cd ecommerce-rfm-recommender
 2 .Create a virtual environment :
 python -m venv venv
